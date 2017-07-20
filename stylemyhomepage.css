@@ -1,0 +1,91 @@
+html
+{
+  background: url('http://cfile28.uf.tistory.com/image/2137E439521346182E4C25')no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+header
+{
+  border-top-width: 5px;
+  padding-bottom: 105px;
+  padding-top: 0px;
+  padding-left: 25px;
+  border-bottom: 5px solid gray;
+}
+nav
+{
+  border-right : 5px solid gray;
+  width : 230px;
+  height : 850px;
+  float : left;
+}
+#square
+{
+  width : 100px;
+  height : 100px;
+  background : blue;
+  padding : 200px;
+}
+article
+{
+  float : left;
+  padding : 20px;
+  width : 500px;
+}
+h2
+{
+  font-size : 30px;
+}
+#control
+{
+  float :right;
+}
+header img
+{
+  height: 100px;
+  float:left;
+}
+#login
+{
+  float:right;
+  margin-right: 15px;
+  margin-top : 50px;
+}
+#joining
+{
+  padding-left: 300px;
+    padding-top: 200px;
+}
+#jointable
+{
+  width : 600px;
+  height : 400px;
+  background-color : white;
+  background-color: rgba( 255, 255, 255, 0.5 );
+  border : 2px black solid;
+}
+#writing
+{
+  background-color : white;
+  background-color: rgba( 255, 255, 255, 0.5 );
+  border : 2px black solid;
+}
+#paragraph
+{
+  width: 800px;
+  height: 450px;
+}
+#title
+{
+  width: 600px;
+}
+#notice
+{
+  padding-left : 200px;
+}
+#writingpa
+{
+  float:right
+}

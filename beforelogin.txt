@@ -1,0 +1,6 @@
+<li><a href="http://localhost/project/homepage.php">Home</a></li>
+<li><a href="http://localhost/project/homepagelogin.php">Notice</a></li>
+<li><a href="http://localhost/project/homepagelogin.php">Free board</a></li>
+<li><a href="http://localhost/project/homepagelogin.php">Chatting Room</a></li>
+<li><a href="http://localhost/project/homepagelogin.php">Game Room</a></li>
+<li><a href="http://localhost/project/homepagelogin.php">Help</a></li>
